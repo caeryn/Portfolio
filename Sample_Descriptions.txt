@@ -20,18 +20,18 @@ automation spreadsheets.
 
 
 ################################################################################
+## Microsoft Scripts
+################################################################################
+
+Various workflow automation scripts and spreadsheets from various jobs.
+
+
+################################################################################
 ## Narrate Conferences
 ################################################################################
 
 Online conference management system, attendee registration system, volunteer
 sign-up and assignment tracking system, and programming/paper submission system.
-
-
-################################################################################
-## Microsoft Scripts
-################################################################################
-
-Various workflow automation scripts and spreadsheets from various jobs.
 
 
 ################################################################################
