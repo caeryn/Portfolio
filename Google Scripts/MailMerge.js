@@ -8,7 +8,7 @@
 // Sample Google Sheet:
 //     https://docs.google.com/spreadsheets/d/1flKWCBqCbWvP_g8mIYbcKjm7HrvmpvFIKrGpP49Ow78/edit?usp=sharing
 // Sample Google Doc Email Template:
-//     
+//     https://docs.google.com/document/d/1BSqEw4lP8lAL4GYJKhAViokmETrZI_DvCcY_CtFf1QE/edit?usp=sharing
 ///////////////////////////////////////////////////////////////////////////////
 
 function sendEmails() {
